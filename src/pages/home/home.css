@@ -1,0 +1,17 @@
+/* .others{
+    flex: 4;
+    background-color: white;
+} */
+
+.home{
+    flex:4;
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}
+
+/* .homeWidgets{
+
+} */
